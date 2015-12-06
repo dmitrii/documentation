@@ -126,7 +126,7 @@
 						<note importance="high">In this example, we allow any IP address to access
 							our new instance. For production use, please use appropriate caution
 							when specifying an IP range. For more information on CIDR notation, go
-							to <xref
+							to <xref format="html" scope="external"
 								href="http://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation"
 								>CIDR notation</xref>.</note>
 
