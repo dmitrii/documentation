@@ -6,7 +6,7 @@
     <shortdesc> This dialog box allows you to confirm or cancel a key pair
         delete operation. </shortdesc>
     <taskbody/>
-    <task id="login_ui_help_steps">
+    <task id="login_ui_help_steps_delete_keypair">
         <title>Verify Key Pair Deletion</title>
         <shortdesc/>
         <taskbody>

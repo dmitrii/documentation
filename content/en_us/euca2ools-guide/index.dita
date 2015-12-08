@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--This work by Eucalyptus Systems is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. See the accompanying LICENSE file for more information.-->
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="welcome">
+<concept id="euca2ools_guide_welcome">
 	<title>Euca2ools Overview</title>
 	<shortdesc>Welcome to the Euca2ools Reference Guide. This guide
 		provides an overview of the Eucalyptus command line interface (Euca2ools), including

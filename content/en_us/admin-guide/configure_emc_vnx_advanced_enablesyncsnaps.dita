@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--This work by Eucalyptus Systems is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. See the accompanying LICENSE file for more information.-->
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="configure_emc_vnx_multipath">
+<task id="configure_emc_vnx_advanced_enablesyncsnaps">
     <title>Configure EMC VNX Synchronous Snapshots</title>
 
 	<shortdesc>To configure synchronous snapshots for an EMC VNX SAN perform the tasks listed in this

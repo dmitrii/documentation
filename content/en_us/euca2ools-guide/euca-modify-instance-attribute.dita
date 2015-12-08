@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--This work by Eucalyptus Systems is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. See the accompanying LICENSE file for more information.-->
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="euca-install-image">
+<reference id="euca-modify-instance-attribute">
 	<title>euca-modify-instance-attribute</title>
 
 	<shortdesc>Modify an attribute of the specified instance.</shortdesc>
