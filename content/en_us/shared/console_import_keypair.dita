@@ -5,7 +5,7 @@
     <title>Import a Public Key</title>
     <shortdesc> This page allows you import an existing public key. Use this if you have an existing SSH key on your system you want to use with your Eucalyptus instances. </shortdesc>
     <taskbody/>
-    <task id="login_ui_help_steps">
+    <task id="login_ui_help_steps_import_keypair">
         <title/>
         <shortdesc/>
         <taskbody>

@@ -15,7 +15,7 @@
 				arn:euca:bootstrap:objectstorage:objectstorage:osg-192.168.1.16/</codeph>
 		</context>
 	</taskbody>
-	<task id="osg_configure_walrus">
+	<task id="osg_configure_walrus_ha">
 		<title>Configure OSG for Walrus</title>
 		<taskbody>
 			<steps>
@@ -42,7 +42,7 @@
 			</steps>
 		</taskbody>
 	</task>
-	<task id="osg_configure_riak">
+	<task id="osg_configure_riak_ha">
 		<title>Configure OSG for Riak</title>
 
 		<taskbody>

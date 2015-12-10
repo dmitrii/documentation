@@ -28,7 +28,7 @@
             </steps>
         </taskbody>
     </task>
-    <task id="console_account_detail_quotas">
+    <task id="console_account_detail_quotas_create_iam_accounts">
         <title>Account Detail - Quotas</title>
         <shortdesc>Quotas lets you define limits on resources that users for this account is allowed
             to create. The quotas you define will be saved as a policy that will appear in the
