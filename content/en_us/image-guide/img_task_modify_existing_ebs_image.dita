@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="img_task_modify_existing_image">
+<task id="img_task_modify_existing_ebs_image">
     <title>Create an Image from an Existing EBS-Backed Instance</title>
     <shortdesc>A common way to create a new image is to customize an existing instance. This topic
         describes how to create a new image by modifying an existing EBS-backed

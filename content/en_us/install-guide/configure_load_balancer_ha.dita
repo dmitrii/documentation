@@ -11,7 +11,7 @@
 			<note conref="../shared/conrefs.dita#prod/tech_preview"/>
 		</context>
 	</taskbody>
-	<task id="installing_and_registering_load_balancer">
+	<task id="installing_and_registering_load_balancer_ha">
 		<title>Install and Register the Load Balancer Image</title>
 		<shortdesc>Eucalyptus provides a tools for installing and
 			registering the Load Balancer image. Once you have run the
@@ -29,7 +29,7 @@
 			</steps>
 		</taskbody>
 	</task>
-	<task id="verify_load_balancer_configuration">
+	<task id="verify_load_balancer_configuration_ha">
 		<title>Verify Load Balancer Configuration</title>
 		<shortdesc>If you would like to verify that Load Balancer
 			support is enabled you can list installed Load

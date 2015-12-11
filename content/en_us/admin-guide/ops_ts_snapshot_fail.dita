@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="ops_ts_volume_creation">
+<task id="ops_ts_snapshot_fail">
 	<title>Problem: snapshot creation failed</title>
 	<shortdesc/>
 	<taskbody>
