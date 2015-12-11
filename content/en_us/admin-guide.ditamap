@@ -37,7 +37,8 @@
 			<topicref href="admin-guide/manage_nodes.dita"/>
 			<topicref href="admin-guide/del_nodes.dita"/>
 			<topicref href="admin-guide/restart_euca.dita" collection-type="sequence">
-				<topicref href="admin-guide/instance_shutdown.dita"/>
+				<topicref
+					href="admin-guide/instance_restart_shutdown.dita"/>
 				<topicref href="admin-guide/clc_restart.dita"/>
 				<topicref href="admin-guide/walrus_restart.dita"/>
 				<!--<topicref href="admin-guide/cc_restart.dita">-->
@@ -70,7 +71,8 @@
 		<topicref href="admin-guide/ops-monitoring.dita"/>
 		<topicref href="ops-guide/ops_recovery.dita">
 			<topicref href="admin-guide/backup_euca.dita">
-				<topicref href="admin-guide/backup_postgres.dita"/>
+				<topicref
+					href="admin-guide/backup_database.dita"/>
 			</topicref>
 			<topicref href="admin-guide/euca_recover.dita">
 				<topicref href="admin-guide/restore_postgres.dita"/>

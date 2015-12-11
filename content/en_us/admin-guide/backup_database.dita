@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="backup_database" conref="backup_postgres.dita#backup_postgres">
+    <title>Backup the Database</title>
+</task>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="instance_restart_shutdown" conref="instance_shutdown.dita#instance_shutdown">
+    <title>Shut Down All Instances</title>
+</task>
