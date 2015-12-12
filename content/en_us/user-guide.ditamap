@@ -35,7 +35,8 @@
 			<topicref href="user-guide/authorize_sg.dita"/>
 			<topicref href="user-guide/run_instance.dita"/>
 			<topicref href="user-guide/login_instance.dita"/>
-			<topicref href="user-guide/test_instance_web_server.dita"/>
+			<topicref
+				href="user-guide/user_start_setup_webserv.dita"/>
 			<topicref href="user-guide/reboot_instance.dita"/>
 			<topicref href="user-guide/terminate_instance.dita"/>
 		</topicref>
