@@ -19,7 +19,8 @@
 		<topicref href="user-guide/getting_started_console.dita">
 			<!--<topicref href="user-guide/signup.dita"/>-->
 			<topicref href="user-guide/get_creds.dita"/>
-			<topicref href="shared/console_login.dita"/>
+			<topicref
+				href="shared/user_console_login.dita"/>
 			<topicref href="user-guide/run_instance_console.dita"/>
 			<topicref href="user-guide/test_instance_web_server.dita"/>
 			<topicref href="user-guide/reboot_instance_console.dita"/>

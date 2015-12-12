@@ -139,22 +139,37 @@
 				<topicref href="admin-guide/accounts_list.dita"/>
 				<topicref href="admin-guide/account_delete.dita"/>
 			</topicref>
-			<topicref href="admin-guide/group_tasks.dita" collection-type="family">
-				<topicref href="admin-guide/group_create.dita"/>
-				<topicref href="admin-guide/policy_add_group.dita"/>
-				<topicref href="admin-guide/group_rename.dita"/>
-				<topicref href="admin-guide/group_rem_user.dita"/>
-				<topicref href="admin-guide/group_list.dita"/>
-				<topicref href="admin-guide/group_list_pols.dita"/>
-				<topicref href="admin-guide/group_delete.dita"/>
+			<topicref
+				href="admin-guide/group_tasks_group.dita">
+				<topicref
+					href="admin-guide/group_create_group.dita"/>
+				<topicref
+					href="admin-guide/group_policy_add_group.dita"/>
+				<topicref
+					href="admin-guide/group_rename_group.dita"/>
+				<topicref
+					href="admin-guide/group_remove_user_group.dita"/>
+				<topicref
+					href="admin-guide/group_list_groups.dita"/>
+				<topicref
+					href="admin-guide/group_list_pols.dita"/>
+				<topicref
+					href="admin-guide/group_delete_group.dita"/>
 			</topicref>
-			<topicref href="admin-guide/user_tasks.dita" collection-type="family">
-				<topicref href="admin-guide/user_add.dita"/>
-				<topicref href="admin-guide/group_add_user.dita"/>
-				<topicref href="admin-guide/user_loginprof.dita"/>
-				<topicref href="admin-guide/user_rename.dita"/>
-				<topicref href="admin-guide/user_list.dita"/>
-				<topicref href="admin-guide/user_delete.dita"/>
+			<topicref
+				href="admin-guide/user_tasks_users.dita">
+				<topicref
+					href="admin-guide/user_add_user.dita"/>
+				<topicref
+					href="admin-guide/user_addto_group.dita"/>
+				<topicref
+					href="admin-guide/user_create_login_profile.dita"/>
+				<topicref
+					href="admin-guide/user_rename_user.dita"/>
+				<topicref
+					href="admin-guide/user_list_users.dita"/>
+				<topicref
+					href="admin-guide/user_delete_user.dita"/>
 			</topicref>
 			<topicref href="shared/credentials_overview.dita" collection-type="family">
 				<topicref href="shared/credentials_user.dita" collection-type="family">
