@@ -73,7 +73,7 @@
 			<topicref href="user-guide/working_with_instances_authorize_sg.dita"/>
 			<topicref href="user-guide/working_with_instances_run_instance.dita"/>
 			<topicref href="user-guide/working_with_instances_login_instance.dita"/>
-			<topicref href="user-guide/reboot_instance.dita"/>
+			<topicref href="user-guide/working_with_instances_reboot_instance.dita"/>
 			<topicref href="user-guide/working_with_instances_terminate_instance.dita"/>
 		</topicref>
 	</topicref>
