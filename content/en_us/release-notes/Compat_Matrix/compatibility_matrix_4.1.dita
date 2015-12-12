@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="install_compatibility_matrix_41">
- <title>Eucalyptus Compatibility Matrix</title>
+ <title>Eucalyptus 4.1 Compatibility Matrix</title>
  <shortdesc>This compatibility matrix details supported platforms in HP Helion Eucalyptus 4.1 software.</shortdesc>
  <conbody>
   <section>
