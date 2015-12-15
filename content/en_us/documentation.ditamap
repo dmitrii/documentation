@@ -23,20 +23,14 @@
 		<topicref href="euca2ools-guide.ditamap" format="ditamap" collection-type="family"/>
 	</topicref>
 	<topicref href="shared/schemas.dita"/>
-	<topichead navtitle="Architecture and Deployment">
-		<topicref href="http://www.eucalyptus.com/eucalyptus-cloud/reference-architectures"
-			scope="external" format="html" navtitle="Eucalyptus Reference Architectures"/>
-		<!-- DEPLOYMENT guide future DOC-1654
-			<topicref href="https://eucalyptus.atlassian.net/wiki/display/EUCA/Repeatable+Deployment+Plan"
-			scope="external" format="html" navtitle="Eucalyptus Deployment Plan"/>  -->
-	</topichead>
+	<topicref href="http://www.eucalyptus.com/eucalyptus-cloud/reference-architectures"
+		  scope="external" format="html" navtitle="Eucalyptus Reference Architectures"/>
+	<!-- DEPLOYMENT guide future DOC-1654
+	     <topicref href="https://eucalyptus.atlassian.net/wiki/display/EUCA/Repeatable+Deployment+Plan"
+		       scope="external" format="html" navtitle="Eucalyptus Deployment Plan"/>  -->
 	<topicref href="shared/release_notes.dita">
-		<topichead navtitle="Eucalyptus">
-			<topicref href="release-notes.ditamap" format="ditamap" collection-type="sequence"/>
-		</topichead>
-		<topichead navtitle="Euca2ools">
-			<topicref href="release-notes-euca2ools.ditamap" format="ditamap" collection-type="family"/>
-		</topichead>
+	  <topicref href="release-notes.ditamap" format="ditamap" collection-type="sequence" navtitle="Eucalyptus"/>
+	  <topicref href="release-notes-euca2ools.ditamap" format="ditamap" collection-type="family" navtitle="Euca2ools"/>
 	</topicref>
 	<!--<glossref href="user-guide/glossary.dita"/>-->
 	<topicref keys="gloss" href="shared/glossary.dita"/>
