@@ -16,7 +16,7 @@
 		</prodinfo>
 	</topicmeta>
 	<topicref href="security-guide/security_oview.dita"/>
-	<topicref href="security-guide/bp_security.dita" collection-type="family">
+	<topicref href="security-guide/bp_security.dita" collection-type="family" otherprops="security-guide">
 		<topicref href="security-guide/security_bp_networking.dita"/>
 		<topicref href="security-guide/security_bp_access.dita"/>
 		<topicref href="security-guide/security_bp_host.dita"/>
@@ -26,9 +26,9 @@
 		<topicref href="security-guide/security_bp_ldap.dita"/>
 <!--		<topicref href="security-guide/roles_priv.dita"/>
 -->	</topicref>
-	<topicref href="security-guide/security_tasks.dita" collection-type="family">
+	<topicref href="security-guide/security_tasks.dita" collection-type="family" otherprops="security-guide">
 		<topicref href="security-guide/security_managed_mode.dita"/>
-		<topicref href="security-guide/configuring_ssl.dita">
+		<topicref href="security-guide/configuring_ssl.dita" otherprops="security-guide">
 			<topicref href="security-guide/config_ssl_clc.dita"/>
 			<topicref href="security-guide/config_ssl_ufs.dita"/>
 			<topicref href="security-guide/config_ssl_uc.dita"/>
