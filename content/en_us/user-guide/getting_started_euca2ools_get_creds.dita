@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--This work by Eucalyptus Systems is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. See the accompanying LICENSE file for more information.-->
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="get_cred" conref="get_creds.dita#get_cred">
+<task id="getting_started_euca2ools_get_cred" conref="get_creds.dita#get_cred">
 	<title>Setup User Credentials and Euca2ools</title>
 </task>

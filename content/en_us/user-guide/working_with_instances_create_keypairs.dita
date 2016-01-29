@@ -2,6 +2,6 @@
 <!--This work by Eucalyptus Systems is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. See the accompanying LICENSE file for more information.-->
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <!-- conref redirect file hack to accomodate Drupal -->
-<task id="create_keypairs" conref="create_keypairs.dita#create_keypairs">
+<task id="working_with_instances_create_keypairs" conref="create_keypairs.dita#create_keypairs">
 	<title>Create Key Pairs</title>
 </task>

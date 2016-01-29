@@ -2,7 +2,7 @@
 <!--This work by Eucalyptus Systems is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. See the accompanying LICENSE file for more information.-->
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <!-- conref redirect file hack to accomodate Drupal -->
-<task id="find_image" conref="find_image.dita#find_image">
+<task id="working_with_instances_find_image" conref="find_image.dita#find_image">
 	<title>Find an Image</title>
 </task>
 
