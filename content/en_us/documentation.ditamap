@@ -24,7 +24,7 @@
 	</topicref>
 	<topicref href="shared/schemas.dita"/>
 	<topicref href="http://www.eucalyptus.com/eucalyptus-cloud/reference-architectures"
-		  scope="external" format="html" navtitle="Eucalyptus Reference Architectures" otherprops="euca-docs"/>
+		  scope="external" format="html" navtitle="Eucalyptus Reference Architectures"/>
 	<!-- DEPLOYMENT guide future DOC-1654
 	     <topicref href="https://eucalyptus.atlassian.net/wiki/display/EUCA/Repeatable+Deployment+Plan"
 		       scope="external" format="html" navtitle="Eucalyptus Deployment Plan"/>  -->
